@@ -1,8 +1,8 @@
 # Finincial Tracker
 
 This is an MERN (MongoDB, Express, React, Node.js) web application that allows users to track their income and expenses. It provides a simple interface for adding and categorizing transactions.
-![alt text](https://github.com/medhatjachour/treacker-with-mern/blob/main/sample/1.png?raw=true)
-![alt text](https://github.com/medhatjachour/treacker-with-mern/blob/main/sample/2.png?raw=true)
+![alt text](https://github.com/medhatjachour/treacker-with-mern/blob/main/samples/1.png?raw=true)
+![alt text](https://github.com/medhatjachour/treacker-with-mern/blob/main/samples/2.png?raw=true)
 
 ## Features
 - **Dashboard**: View a summary of income, expenses, and balance.
